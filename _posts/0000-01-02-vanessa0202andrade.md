@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"The beginning of a portfolio page,:books:"
 Use the left arrow to go back!
